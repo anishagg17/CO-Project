@@ -1,5 +1,5 @@
 You can run the program on google collab from this link just press shift+Enter to run a particualr block.
-The link is here :  
+The link is provided here :  
 
 OR 
 
