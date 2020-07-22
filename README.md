@@ -1,7 +1,7 @@
 You can run it on your local machine if you have Jupyter-Notebook:
 
 How to run this project : 
-1. Download and extract the zip file.
+1. Clone the repo using `git clone git@github.com:anishagg17/CO-Project.git`.
 2. open the file with .ipynb extension using JUPYTER-NOTEBOOK. (Press shift+Enter to run a block)
 3. Start executing the program from the top.
 4. Change the path given in the second block to wherever you have placed the data.csv file.
